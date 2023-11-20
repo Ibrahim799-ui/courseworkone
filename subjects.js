@@ -85,7 +85,7 @@ let subjects = [
         "image":"img2/his-removebg-preview (1).png",
         "subjectname":"History",
         "location":"Nigeria",
-        "price":140,
+        "price":130,
         "numberofspaces": 5,
         
     }
