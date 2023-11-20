@@ -40,7 +40,7 @@ let subjects = [
         "image":"img2/mus-removebg-preview.png",
         "subjectname":"Music",
         "location":"Dubia",
-        "price":120,
+        "price":110,
         "numberofspaces": 5,
        
     },
@@ -67,7 +67,7 @@ let subjects = [
         "image":"img2/art-removebg-preview.png",
         "subjectname":"Fine Arts",
         "location":"Malta",
-        "price":100,
+        "price":98,
         "numberofspaces": 5,
        
     },
